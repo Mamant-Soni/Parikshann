@@ -1,0 +1,20 @@
+{
+  "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  },
+  "components\\providers\\i18n-provider.tsx -> @/lib/actions/preferences": {
+    "id": "components\\providers\\i18n-provider.tsx -> @/lib/actions/preferences",
+    "files": [
+      "static/chunks/_app-pages-browser_src_lib_actions_preferences_ts.js"
+    ]
+  },
+  "components\\providers\\i18n-provider.tsx -> sonner": {
+    "id": "components\\providers\\i18n-provider.tsx -> sonner",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_sonner_dist_index_mjs.js"
+    ]
+  }
+}
